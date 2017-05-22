@@ -1,0 +1,19 @@
+.hero_banner {
+    background: #2986BE;
+    background-image: url(//p6.zdassets.com/hc/theme_assets/138842/200037786//pattern_transparent.png), linear-gradient(-150deg, #00C1B6 0%, #136EB5 97%);
+    background-size: 380px, contain;
+    justify-content: center;
+    padding-top: 65px;
+}
+
+.choose-plan .active {
+    background: #08b7b4;
+    border-color: #08b7b4;
+    color: #fff;
+    outline: none !important;
+}	
+
+
+
+/// button
+#08c4a4
